@@ -13,3 +13,7 @@ h1, h2, h3 {
 .skeleton h2 {
   font-size: 32px;
 }
+
+.colorful, .skeleton {
+  text-align: center;
+}
