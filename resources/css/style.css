@@ -17,3 +17,7 @@ h1, h2, h3 {
 .colorful, .skeleton {
   text-align: center;
 }
+
+.colorful {
+  background-image: url(../../resources/images/the-flatiron-building.png);
+}
