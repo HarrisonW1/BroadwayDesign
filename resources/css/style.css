@@ -26,3 +26,8 @@ h1, h2, h3 {
 .colorful h2 {
   font-size: 23px;
 }
+
+.navi {
+  font-size: 18px;
+  color: white;
+}
