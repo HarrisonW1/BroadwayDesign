@@ -9,3 +9,7 @@ h1, h2, h3 {
 .colorful h1 {
   font-size: 70px;
 }
+
+.skeleton h2 {
+  font-size: 32px;
+}
