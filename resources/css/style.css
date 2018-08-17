@@ -41,3 +41,7 @@ h1, h2, h3 {
 .skeleton p {
   font-size: 14px;
 }
+
+.skeleton h3 {
+  font-size: 23px;
+}
